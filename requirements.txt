@@ -68,7 +68,7 @@ threadpoolctl==3.1.0
 trio==0.22.0
 trio-websocket==0.9.2
 typing_extensions==4.4.0
-urllib3==1.26.12
+urllib3==1.26.13
 Werkzeug==2.2.2
 wrapt==1.14.1
 wsproto==1.2.0
